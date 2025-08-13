@@ -1,0 +1,16 @@
+# Core & Data Handling
+pandas
+scikit-learn
+jupyter
+
+# NLP
+transformers
+torch
+spacy
+
+# API & Server
+fastapi
+uvicorn[standard]
+
+# For Collaborative Filtering
+surprise
